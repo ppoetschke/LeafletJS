@@ -1,5 +1,3 @@
-##Welcome to Wakanda##
+##Demo Wakanda LefletJS##
 
-This is the place to describe your Wakanda application.
-
-Please visit [www.wakanda.org](http://www.wakanda.org "wakanda.org") for more information.
+This is a small demo showing how LeafletJS, a javascript mapping framework, can be integrated in Wakanda.
